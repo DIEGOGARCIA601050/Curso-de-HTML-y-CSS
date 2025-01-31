@@ -66,3 +66,8 @@ li a {
 li {
     color: #caf0f8;
 }
+
+select {
+    /*centrar el select*/
+    margin-left: 46%;
+}
